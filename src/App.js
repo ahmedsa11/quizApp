@@ -71,7 +71,7 @@ function App() {
             {(score / questions.length) * 100}%)
           </h2>
           {score === questions.length ? (
-          <h2>جامد يجعاان</h2>)  : (<h2>ذاكرو بقى شويه </h2>)
+          <h2>جامد يجدعاان</h2>)  : (<h2>ذاكرو بقى شويه </h2>)
           }
           <button onClick={() => restartGame()}> حاول تاني </button>
         </div>
